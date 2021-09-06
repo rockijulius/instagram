@@ -187,7 +187,7 @@ body{
     height: 90%;
 
     object-fit: cover;
-    transition: opacity 800ms;
+    transition: opacity 2500ms;
 }
 
 #slider img.selected { 
